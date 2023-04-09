@@ -3,3 +3,4 @@
 **/*.app
 **/*.vscodeoutput/
 **/.DS_Store
+**/.vscode/
